@@ -6,6 +6,7 @@ You can find some of my non-commercial work here, from university code repositor
 #### Languages and Tools
 - I regularly work with **TypeScript**, **Go**, **C++**, and **Java** for building microservices, applications and APIs
 - Currently learning **Terraform** and **Prisma**
+- Interested in various concepts including multitenancy, event-driven architectures and data-centric engineering
 
 [**Steam**](https://steamcommunity.com/profiles/76561198081082634) | [**Email**](mailto:hilliamtung@gmail.com) | [**NPM**](https://www.npmjs.com/~hilliamt) | [**StackOverflow**](https://stackoverflow.com/users/12049191/hilliamt) | [**LinkedIn**](https://www.linkedin.com/in/hilliamtung/)
 
