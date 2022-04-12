@@ -3,10 +3,10 @@
 I'm currently a university student in the UK studying a degree in Mathematics and Computer Science.
 You can find some of my non-commercial work here, from university code repositories to general open-source projects.
 
-#### Languages and Tools
+#### A bit about me
 - I regularly work with **TypeScript**, **Go**, **C++**, and **Java** for building microservices, applications and APIs
-- Tech I like to use includes **Docker**, **Prisma** and **Kubernetes**
-- Currently learning **Terraform** and **Solidity**
+- Tech I like to use includes **Terraform**, **Docker**, **Prisma** and **Kubernetes**
+- Currently learning **Solidity**
 - Interested in various concepts including multitenancy, event-driven architectures and data-centric engineering
 
 [**Steam**](https://steamcommunity.com/profiles/76561198081082634) | [**Email**](mailto:hilliamtung@gmail.com) | [**NPM**](https://www.npmjs.com/~hilliamt) | [**StackOverflow**](https://stackoverflow.com/users/12049191/hilliamt) | [**LinkedIn**](https://www.linkedin.com/in/hilliamtung/)
